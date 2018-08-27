@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cosmos SDK
 ![banner](docs/graphics/cosmos-sdk-image.png)
 
@@ -43,3 +44,7 @@ See the [Cosmos Docs](https://cosmos.network/docs/)
 ## Disambiguation
 
 This Cosmos-SDK project is not related to the [React-Cosmos](https://github.com/react-cosmos/react-cosmos) project (yet). Many thanks to Evan Coury and Ovidiu (@skidding) for this Github organization name. As per our agreement, this disambiguation notice will stay here.
+=======
+# sentinel
+Sentinel-sdk
+>>>>>>> 426c35a74f30d386f9f786f78ce77d78f7f58a3d
